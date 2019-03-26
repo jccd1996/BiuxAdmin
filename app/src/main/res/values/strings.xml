@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Biux Admin</string>
+    <string name="Bienvenido">Bienvenido al servicio administrativo de BiuX Ibagué</string>
+    <string name="Noticias">Noticias</string>
+    <string name="Empresas">Empresas</string>
+    <string name="AgregarEmpresa">Agregar Empresa</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="Correo">Correo Electronico</string>
+    <string name="Celular">Celular/Wa</string>
+    <string name="FB">Facebook</string>
+    <string name="Instagram">Instagram</string>
+    <string name="CrearEmpresa">Crear Empresa</string>
+    <string name="Coordenadas">Coordenadas</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Editar">Editar</string>
+    <string name="Telefono">Telefono Fijo</string>
+</resources>
